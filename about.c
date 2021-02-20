@@ -3,6 +3,7 @@
 void main()
 {
 printf("Hello");
+printf("Master the Blaster");
 getch();
 }
 
